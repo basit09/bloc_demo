@@ -17,7 +17,6 @@ dependencies:
 
   # State Management
   bloc: ^8.1.4
-  bloc_concurrency: ^0.2.0
   flutter_bloc: ^8.1.6
 
   #local database
