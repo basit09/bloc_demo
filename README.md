@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I have used bloc as state management and called an API, stored data in local DB (Sqflite), 
+Have shown data from local DB if data is empty from API call on refreshed.
 
 A few resources to get you started if this is your first Flutter project:
 
